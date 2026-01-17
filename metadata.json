@@ -1,0 +1,5 @@
+{
+  "name": "CypherLab",
+  "description": "An interactive cryptography education platform featuring a method library, interactive Caesar cipher simulator, and deep-dive educational modules.",
+  "requestFramePermissions": []
+}
