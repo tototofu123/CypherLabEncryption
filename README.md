@@ -1,35 +1,32 @@
-# CypherLab Encryption 🔐🧩
+# 🔐 CypherLab Encryption
 
-An educational demonstration and simulation of major encryption methods. This interactive tool provides visual simulations and clear descriptions of how various cryptographic algorithms work.
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-A-F57C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-AES%20%7C%20RSA-2C1B0E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Built%20With-React%20%2B%20TS-blue?style=for-the-badge" />
+</p>
 
-## 🌟 Key Features
-- **Interactive Simulations**: Visualize the encryption and decryption process for multiple ciphers.
-- **Educational Content**: Includes basic descriptions and background info for each method.
-- **Web-Based**: Built with modern web technologies for a smooth, accessible experience.
+An educational encryption simulator designed to demonstrate the power of modern cryptography. Part of the **Wood & Orange** suite.
 
-## 🛠️ Tech Stack
-- **React** (Frontend library)
-- **TypeScript** (Type safety)
-- **Vite** (Build tool)
-- **Netlify** (Deployment)
+---
 
-## 📂 File Structure
-- `App.tsx`: Main application entry and routing.
-- `index.tsx`: Root component and React initialization.
-- `constants.ts`: Cryptographic constants and algorithm parameters.
-- `types.ts`: TypeScript type definitions for the simulation engine.
-- `metadata.json`: Project metadata and configuration.
+### 🛠️ Core Features
+- **AES-256**: High-level symmetric encryption simulation.
+- **RSA**: Public-key infrastructure visualization.
+- **Live Preview**: See the cyphertext transform in real-time.
 
-## 🚀 Getting Started
-### Installation
-```bash
-npm install
-```
+---
 
-### Run Locally
-```bash
-npm run dev
-```
+### 🚀 Live Demo
+Visit the interactive simulator: [**Live Site**](https://tototofu123.github.io/CypherLabEncryption)
 
-## 📜 License
-MIT
+---
+
+### 📊 Security Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tototofu123&repo=CypherLabEncryption&theme=tokyonight&border_color=F57C00&bg_color=121212" alt="Repo Stats" />
+</p>
+
+<p align="center">
+  Built with 🧡 by [tototofu123](https://github.com/tototofu123)
+</p>
