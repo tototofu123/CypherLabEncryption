@@ -52,7 +52,3 @@ Discover the evolution of ciphers across eras:
    ```bash
    npm run build
    ```
-
----
-
-Built with 🧡 by [tototofu123](https://github.com/tototofu123)
